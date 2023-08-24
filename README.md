@@ -1,8 +1,17 @@
-# sobre mim
-- 👋 Olá meu nome é **@mariaavitoria123**
-- :+1: Meu email de contato é [email](maria.alves.silva26@escola.pr.gov.br)
-- 👀 Eu estou interessada a programar novas linguagens.
-- 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
+# boas vindas ao meu perfil 🧡
 
+Meu nome é Maria Vitoria
+
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Você pode entrar em contato comigo 📫
+
+maria.alves.silva26@escola.pr.gov.br
+
+@mariavitoriaalvees
+
+![](https://media.tenor.com/gWEFWUlX2AYAAAAM/funny-animals.gif)
 
 
